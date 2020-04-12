@@ -5,4 +5,4 @@ This repository is aimed to be used as online repository of day to day resources
 
 ## Check the [Home](HOME.md) link to find various categories.
 
-### [Mark Down Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### [Mark Down Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
